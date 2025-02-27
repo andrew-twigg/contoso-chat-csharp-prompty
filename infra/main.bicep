@@ -122,7 +122,7 @@ module openAi 'core/ai/cognitiveservices.bicep' = {
         model: {
           format: 'OpenAI'
           name: 'gpt-35-turbo'
-          version: '0613'
+          version: '0125'
         }
         sku: {
           name: 'Standard'
